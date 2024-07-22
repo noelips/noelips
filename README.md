@@ -1,6 +1,6 @@
 - Hi, I’m @noelips
-- I’m interested in the funge family of esoteric programming languages and video game development
-- I’m currently learning how to use game engines like pico-8 and the godot game engine
+- I’m interested in video game development, synthesizers and the funge family of esoteric programming languages.
+- I’m currently learning how to use game engines like pico-8 and the godot game engine.
 - You can reach me at topherobinson@gmail.com
 
 <!---
